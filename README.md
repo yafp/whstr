@@ -1,4 +1,4 @@
 # whstr
 
 ## About
-A small search helper for windows powershell history.
+A keyboard-driven, Windows-native PowerShell history search and favorites interface
