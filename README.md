@@ -1,2 +1,4 @@
 # whstr
-A small helper tool for windows powershell history
+
+## About
+A small search helper for windows powershell history.
